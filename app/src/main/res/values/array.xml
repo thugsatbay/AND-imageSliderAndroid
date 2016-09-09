@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="steps">
+        <item>\u25cf \u25cb \u25cb \u25cb \u25cb</item>
+        <item>\u25cb \u25cf \u25cb \u25cb \u25cb</item>
+        <item>\u25cb \u25cb \u25cf \u25cb \u25cb</item>
+        <item>\u25cb \u25cb \u25cb \u25cf \u25cb</item>
+        <item>\u25cb \u25cb \u25cb \u25cb \u25cf</item>
+    </string-array>
+</resources>
